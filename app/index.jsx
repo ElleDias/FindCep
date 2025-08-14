@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     flex: 1.5,
     paddingTop: 50,
     height: "100%",
-    paddingBottom: 80,
+    paddingBottom: 200,
   },
 
   titulo: {
