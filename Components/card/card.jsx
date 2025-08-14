@@ -48,5 +48,8 @@ const styles = StyleSheet.create({
     },
     tituloValor: {
       fontWeight: 600
+    },
+    valor: {
+        marginBottom: 20
     }
 })
